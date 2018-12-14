@@ -23,6 +23,8 @@ The XPS series:
   *  2x USB 3, 1x USB-C and 1x SD card slot
 - XPS 13 Developper Edition | [Dell website](http://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-linux)
   // The developper edition comes with Ubuntu linux pre-installed (no windows though)
+- XPS 15 (9570) | [Dell website](https://www.dell.com/en-us/shop/dell-laptops/xps-15/spd/xps-15-9570-laptop/dycwb1647h)
+  Comes with MS Windows, Ubuntu works perfectlty (didn't try dualboot). (You need to desactivate the RAID config in the bios before installation for Ubuntu to find your sdd)
 
 The Latitude series:
 - 5000 and 7000 models | [Dell website](http://www.dell.com/en-us/work/shop/dell-laptops-and-notebooks/sf/latitude-laptops)
